@@ -1,15 +1,10 @@
-# filesInPython
-mini scripts with python to mange and work with files.
+# FilesInPython
 
+A collection of mini scripts in Python to manage and work with files.
 
-FilesInPython/
-├── .DS_Store
-├── foldersTree/
-│   ├── folder_structure.txt
-│   ├── README.md
-│   ├── folder_structure.py
-├── README.md
-├── fileManager/
-│   ├── README.md
-│   ├── main.py
-├── .git/
+- [foldersTree](./foldersTree)
+  - [folder_structure.py](./foldersTree/folder_structure.py)
+  - [folder_structure.txt](./foldersTree/folder_structure.txt)
+- [fileManager](./fileManager)
+  - [main.py](./fileManager/main.py)
+- [.DS_Store](./.DS_Store)
