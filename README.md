@@ -7,4 +7,3 @@ A collection of mini scripts in Python to manage and work with files.
   - [folder_structure.txt](./foldersTree/folder_structure.txt)
 - [fileManager](./fileManager)
   - [main.py](./fileManager/main.py)
-- [.DS_Store](./.DS_Store)
