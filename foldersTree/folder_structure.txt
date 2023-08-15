@@ -1,0 +1,159 @@
+/Users/shlomi/Desktop/מדעי המחשב/
+├── LearnJS/
+│   ├── .DS_Store
+│   ├── oop simple project/
+│   │   ├── index.html
+│   │   ├── style.css
+│   │   ├── app.js
+│   ├── AverageStudentGrade/
+│   │   ├── index.html
+│   │   ├── style.css
+│   │   ├── app.js
+│   ├── OOP Academic Calculator/
+│   │   ├── index.html
+│   │   ├── .DS_Store
+│   │   ├── style.css
+│   │   ├── calcpic.png
+│   │   ├── app.js
+│   ├── RealProject/
+│   │   ├── index.html
+│   │   ├── style.css
+│   │   ├── app.js
+│   ├── simple project/
+│   │   ├── index.html
+│   │   ├── style.css
+│   │   ├── app.js
+├── c++/
+│   ├── .DS_Store
+│   ├── trycppfirstime/
+│   │   ├── .DS_Store
+│   │   ├── first.cpp
+│   │   ├── first
+│   │   ├── first.dSYM/
+│   │   │   ├── Contents/
+│   │   │   │   ├── Resources/
+│   │   │   │   │   ├── DWARF/
+│   │   │   │   │   │   ├── first
+│   │   │   │   ├── Info.plist
+│   ├── .vscode/
+│   │   ├── tasks.json
+├── learn node/
+│   ├── .DS_Store
+│   ├── first-app/
+│   │   ├── .DS_Store
+│   │   ├── server.js
+│   │   ├── node_modules/
+│   │   ├── .gitignore
+│   │   ├── package-lock.json
+│   │   ├── package.json
+│   │   ├── .env
+│   │   ├── views/
+│   │   │   ├── login.ejs
+│   │   │   ├── index.ejs
+│   │   │   ├── register.ejs
+│   │   ├── passport-config.js
+├── .DS_Store
+├── ultimateProject/
+│   ├── .DS_Store
+│   ├── server/
+│   │   ├── middleware/
+│   │   │   ├── auth.js
+│   │   ├── .DS_Store
+│   │   ├── node_modules/
+│   │   ├── index.js
+│   │   ├── models/
+│   │   │   ├── User.js
+│   │   ├── package-lock.json
+│   │   ├── package.json
+│   │   ├── .env
+│   │   ├── controllers/
+│   │   │   ├── auth.js
+│   │   ├── routes/
+│   │   │   ├── auth.js
+│   │   │   ├── users.js
+├── AwesomeProject/
+│   ├── .expo/
+│   │   ├── README.md
+│   │   ├── devices.json
+│   ├── app.json
+│   ├── node_modules/
+│   ├── utils/
+│   │   ├── GPAUtils.js
+│   ├── screens/
+│   │   ├── HomeScreen.js
+│   │   ├── GPACalculationScreen.js
+│   ├── components/
+│   │   ├── InputComponent.js
+│   │   ├── TableComponent.js
+│   ├── babel.config.js
+│   ├── .gitignore
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── .git/
+│   │   ├── config
+│   │   ├── objects/
+│   │   │   ├── 03/
+│   │   │   │   ├── d6f6b6c6727954aec1d8206222769afd178d8d
+│   │   │   ├── 3c/
+│   │   │   │   ├── b63ec150d42b1996fe6509e64ca7f1b48e9be9
+│   │   │   ├── 0e/
+│   │   │   │   ├── 89705a9436743e42954d3744a0e7ff0d3d4701
+│   │   │   ├── 05/
+│   │   │   │   ├── 647d55c75215e41f54285e3ca8f7fa6466bc01
+│   │   │   ├── a4/
+│   │   │   │   ├── b6db13994b75daa41b425f495b011af7afba01
+│   │   │   ├── be/
+│   │   │   │   ├── 3d52bcc89ffb012cdc561e07ce3976f0a5bdb3
+│   │   │   ├── f5/
+│   │   │   │   ├── 7e46e0c7772c88252910f30eb6ef11ef9bb475
+│   │   │   ├── pack/
+│   │   │   ├── 29/
+│   │   │   │   ├── 00afe9d85a54cf9552ec0b4107665c5c10e078
+│   │   │   ├── 10/
+│   │   │   │   ├── 2af26b21d7e481ca6766656e74f5c30b387645
+│   │   │   ├── 2f/
+│   │   │   │   ├── d8b923d25aa0f7f2b253fda7d26cd6345c7d39
+│   │   │   ├── 09/
+│   │   │   │   ├── f879b827723c4435efb850d1508024272bd2fd
+│   │   │   ├── info/
+│   │   │   ├── a0/
+│   │   │   │   ├── b1526fc7b78680fd8d733dbc6113e1af695487
+│   │   │   ├── e7/
+│   │   │   │   ├── 5f697b1801871ad8cd9309b05e8ffe8c6b6d01
+│   │   ├── HEAD
+│   │   ├── info/
+│   │   │   ├── exclude
+│   │   ├── logs/
+│   │   │   ├── HEAD
+│   │   │   ├── refs/
+│   │   │   │   ├── heads/
+│   │   │   │   │   ├── main
+│   │   ├── description
+│   │   ├── hooks/
+│   │   │   ├── commit-msg.sample
+│   │   │   ├── pre-rebase.sample
+│   │   │   ├── pre-commit.sample
+│   │   │   ├── applypatch-msg.sample
+│   │   │   ├── fsmonitor-watchman.sample
+│   │   │   ├── pre-receive.sample
+│   │   │   ├── prepare-commit-msg.sample
+│   │   │   ├── post-update.sample
+│   │   │   ├── pre-merge-commit.sample
+│   │   │   ├── pre-applypatch.sample
+│   │   │   ├── pre-push.sample
+│   │   │   ├── update.sample
+│   │   │   ├── push-to-checkout.sample
+│   │   ├── refs/
+│   │   │   ├── heads/
+│   │   │   │   ├── main
+│   │   │   ├── tags/
+│   │   ├── index
+│   │   ├── COMMIT_EDITMSG
+│   ├── assets/
+│   │   ├── icon.png
+│   │   ├── favicon.png
+│   │   ├── splash.png
+│   │   ├── adaptive-icon.png
+│   ├── App.js
+├── .vscode/
+├── C++.pdf
